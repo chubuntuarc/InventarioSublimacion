@@ -1,1 +1,12 @@
 c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\bin\Debug\InventarioSublimacion.exe.config
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\bin\Debug\InventarioSublimacion.exe
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\bin\Debug\InventarioSublimacion.pdb
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.csprojResolveAssemblyReference.cache
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.Form1.resources
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.Properties.Resources.resources
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.csproj.GenerateResource.Cache
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.exe
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.pdb
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.frmInventario.resources
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.frmMovimientos.resources
+c:\users\aimco\documents\visual studio 2015\Projects\InventarioSublimacion\InventarioSublimacion\obj\Debug\InventarioSublimacion.frmProductos.resources
